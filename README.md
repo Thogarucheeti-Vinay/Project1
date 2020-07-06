@@ -10,3 +10,4 @@ and Sql to insert data into the database.I used a php file to coonect to my serv
 and access the information from the database and display in the html document.
 this is a simple dynamic website, so i didn't added more features to it.
 Thank you for visiting my project :)
+link:http://192.168.43.141/demo/index.php
