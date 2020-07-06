@@ -10,7 +10,7 @@
 			<div class="container-fluid">
 				<div class="navbar-header">
 					<a href=""><img style="width:10%;height:5%" class="logo" src="https://i.pinimg.com/originals/33/b8/69/33b869f90619e81763dbf1fccc896d8d.jpg"</a>
-					<a style="" class="navbar-brand" href="contact.php">THOGARUCHEETI VINAY</a>
+					<a style="" class="navbar-brand" href="#">THOGARUCHEETI VINAY</a>
 					<a class="navbar-brand" href="index.php">Home</a>
 					<a class="navbar-brand" href="admin.php">Admin panel</a>
 					<a class="navbar-brand" href="#">contact</a>
